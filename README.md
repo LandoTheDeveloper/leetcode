@@ -8,4 +8,4 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1946|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](algorithms/java/src/maximum-ascending-subarray-sum.java)|Medium|
+|1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](algorithms/java/src/maximum-ascending-subarray-sum.java)|Medium|
