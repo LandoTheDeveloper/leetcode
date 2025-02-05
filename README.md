@@ -1,2 +1,11 @@
-# leetcode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+LeetCode
+========
+
+### LeetCode Algorithm
+
+(Notes: "🔒" means you need to buy a book from Leetcode)
+
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1946|[Largest Number After Mutating Substring](https://leetcode.com/problems/largest-number-after-mutating-substring/) | [C++](./algorithms/cpp/largestNumberAfterMutatingSubstring/LargestNumberAfterMutatingSubstring.cpp), [Java](./algorithms/java/src/LargestNumberAfterMutatingSubtring/largestNumberAfterMutatingSubstring.java)|Medium|
