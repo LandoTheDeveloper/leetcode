@@ -8,4 +8,4 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](algorithms/java/src/maximum-ascending-subarray-sum.java)|Easy|
+|1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](algorithms/java/src/maximum-ascending-subarray-sum.java) [Python](algorithms/python/src/maximum-ascending-subarray-sum.py)|Easy|
