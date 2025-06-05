@@ -13,5 +13,5 @@ LeetCode
 |1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/) | [Java](algorithms/java/src/maximum-ascending-subarray-sum.java), [Python](algorithms/python/src/maximum-ascending-subarray-sum.py)|Easy|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/) | [Java](algorithms/java/src/check-if-one-string-swap-can-make-strings-equal.java) | Easy |
 |1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/) | [Java](algorithms/java/src/tuple-with-same-product) | Medium |
-|1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | [Java](algorithms/java/src/lses) | Medium |
+|1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | [Java](algorithms/java/src/lexiographically_smallest_eq_str.java) | Medium |
 |135| [Candy](https://leetcode.com/problems/candy) | [Java](algorithms/java/src/candy) | Hard |
