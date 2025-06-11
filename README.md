@@ -15,4 +15,4 @@ LeetCode
 |1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/description/) | [Java](algorithms/java/src/tuple-with-same-product) | Medium |
 |1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | [Java](algorithms/java/src/lexiographically_smallest_eq_str.java) | Medium |
 |135| [Candy](https://leetcode.com/problems/candy) | [Java](algorithms/java/src/candy) | Hard |
-|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](algorithms/java/src/longest-substring-without-repeating-characters) | Medium |
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Java](algorithms/java/src/longest-substring-without-repeating-characters.java) | Medium |
